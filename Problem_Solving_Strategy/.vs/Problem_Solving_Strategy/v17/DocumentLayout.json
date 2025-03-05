@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F76A8CD-5B4B-4080-936A-4F9EDD2F2E4A}|DivideAndConquer\\DivideAndConquer.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\problem_solving_strategy\\problem_solving_strategy\\divideandconquer\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F76A8CD-5B4B-4080-936A-4F9EDD2F2E4A}|DivideAndConquer\\DivideAndConquer.csproj|solutionrelative:divideandconquer\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F76A8CD-5B4B-4080-936A-4F9EDD2F2E4A}|DivideAndConquer\\DivideAndConquer.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\problem_solving_strategy\\problem_solving_strategy\\divideandconquer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F76A8CD-5B4B-4080-936A-4F9EDD2F2E4A}|DivideAndConquer\\DivideAndConquer.csproj|solutionrelative:divideandconquer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F76A8CD-5B4B-4080-936A-4F9EDD2F2E4A}|DivideAndConquer\\DivideAndConquer.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\problem_solving_strategy\\problem_solving_strategy\\divideandconquer\\divideandconquer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F76A8CD-5B4B-4080-936A-4F9EDD2F2E4A}|DivideAndConquer\\DivideAndConquer.csproj|solutionrelative:divideandconquer\\divideandconquer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 137,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BinarySearch.cs",
+              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\DivideAndConquer\\BinarySearch.cs",
+              "RelativeDocumentMoniker": "DivideAndConquer\\BinarySearch.cs",
+              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\DivideAndConquer\\BinarySearch.cs*",
+              "RelativeToolTip": "DivideAndConquer\\BinarySearch.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:06:22.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\DivideAndConquer\\Program.cs",
+              "RelativeDocumentMoniker": "DivideAndConquer\\Program.cs",
+              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\DivideAndConquer\\Program.cs",
+              "RelativeToolTip": "DivideAndConquer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T21:05:25.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DivideAndConquer",
+              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\DivideAndConquer\\DivideAndConquer.csproj",
+              "RelativeDocumentMoniker": "DivideAndConquer\\DivideAndConquer.csproj",
+              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\DivideAndConquer\\DivideAndConquer.csproj",
+              "RelativeToolTip": "DivideAndConquer\\DivideAndConquer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T21:04:46.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 263,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
