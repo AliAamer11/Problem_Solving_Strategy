@@ -12,3 +12,4 @@ C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solvi
 C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solving_Strategy\DivideAndConquer\obj\Debug\net8.0\DivideAndConquer.pdb
 C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solving_Strategy\DivideAndConquer\obj\Debug\net8.0\DivideAndConquer.genruntimeconfig.cache
 C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solving_Strategy\DivideAndConquer\obj\Debug\net8.0\ref\DivideAndConquer.dll
+C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solving_Strategy\DivideAndConquer\obj\Debug\net8.0\DivideAndConquer.sourcelink.json
