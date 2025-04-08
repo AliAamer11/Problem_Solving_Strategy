@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DivideAndConquer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67c0568ec8200596c6f43c2e9ed629e76e971110")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e8fbbe629c4eb477bcbc722ec2a6311f6fba39b5")]
 [assembly: System.Reflection.AssemblyProductAttribute("DivideAndConquer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DivideAndConquer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

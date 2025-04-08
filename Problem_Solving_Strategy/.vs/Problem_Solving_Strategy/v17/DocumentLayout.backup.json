@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3C053288-C425-4F6B-9AC5-8F1C61F75A1C}|MergeSort\\MergeSort.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\problem_solving_strategy\\problem_solving_strategy\\mergesort\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C053288-C425-4F6B-9AC5-8F1C61F75A1C}|MergeSort\\MergeSort.csproj|solutionrelative:mergesort\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E950E9F1-9B03-4A03-A915-2A581CEE81A1}|Two_Pointers\\Two_Pointers.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\problem_solving_strategy\\problem_solving_strategy\\two_pointers\\porgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E950E9F1-9B03-4A03-A915-2A581CEE81A1}|Two_Pointers\\Two_Pointers.csproj|solutionrelative:two_pointers\\porgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3C053288-C425-4F6B-9AC5-8F1C61F75A1C}|MergeSort\\MergeSort.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\problem_solving_strategy\\problem_solving_strategy\\mergesort\\porgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C053288-C425-4F6B-9AC5-8F1C61F75A1C}|MergeSort\\MergeSort.csproj|solutionrelative:mergesort\\porgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F76A8CD-5B4B-4080-936A-4F9EDD2F2E4A}|DivideAndConquer\\DivideAndConquer.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\problem_solving_strategy\\problem_solving_strategy\\divideandconquer\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F76A8CD-5B4B-4080-936A-4F9EDD2F2E4A}|DivideAndConquer\\DivideAndConquer.csproj|solutionrelative:divideandconquer\\binarysearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E950E9F1-9B03-4A03-A915-2A581CEE81A1}|Two_Pointers\\Two_Pointers.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\problem_solving_strategy\\problem_solving_strategy\\two_pointers\\two_pointers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E950E9F1-9B03-4A03-A915-2A581CEE81A1}|Two_Pointers\\Two_Pointers.csproj|solutionrelative:two_pointers\\two_pointers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3C053288-C425-4F6B-9AC5-8F1C61F75A1C}|MergeSort\\MergeSort.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\problem_solving_strategy\\problem_solving_strategy\\mergesort\\mergesort.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3C053288-C425-4F6B-9AC5-8F1C61F75A1C}|MergeSort\\MergeSort.csproj|solutionrelative:mergesort\\mergesort.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F76A8CD-5B4B-4080-936A-4F9EDD2F2E4A}|DivideAndConquer\\DivideAndConquer.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\problem_solving_strategy\\problem_solving_strategy\\divideandconquer\\divideandconquer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0F76A8CD-5B4B-4080-936A-4F9EDD2F2E4A}|DivideAndConquer\\DivideAndConquer.csproj|solutionrelative:divideandconquer\\divideandconquer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F76A8CD-5B4B-4080-936A-4F9EDD2F2E4A}|DivideAndConquer\\DivideAndConquer.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\problem_solving_strategy\\problem_solving_strategy\\divideandconquer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F76A8CD-5B4B-4080-936A-4F9EDD2F2E4A}|DivideAndConquer\\DivideAndConquer.csproj|solutionrelative:divideandconquer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3C053288-C425-4F6B-9AC5-8F1C61F75A1C}|MergeSort\\MergeSort.csproj|c:\\users\\a.ghusen\\source\\repos\\aliaamer11\\problem_solving_strategy\\problem_solving_strategy\\mergesort\\porgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C053288-C425-4F6B-9AC5-8F1C61F75A1C}|MergeSort\\MergeSort.csproj|solutionrelative:mergesort\\porgram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,77 +35,54 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Sort.cs",
-              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\MergeSort\\Sort.cs",
-              "RelativeDocumentMoniker": "MergeSort\\Sort.cs",
-              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\MergeSort\\Sort.cs*",
-              "RelativeToolTip": "MergeSort\\Sort.cs*",
-              "ViewState": "AgIAABkAAAAAAAAAAAAYwBoAAAA7AAAAAAAAAA==",
+              "Title": "Porgram.cs",
+              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\Two_Pointers\\Porgram.cs",
+              "RelativeDocumentMoniker": "Two_Pointers\\Porgram.cs",
+              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\Two_Pointers\\Porgram.cs",
+              "RelativeToolTip": "Two_Pointers\\Porgram.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T21:50:08.02Z",
+              "WhenOpened": "2025-04-08T19:32:41.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MergeSort.csproj",
-              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\MergeSort\\MergeSort.csproj",
-              "RelativeDocumentMoniker": "MergeSort\\MergeSort.csproj",
-              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\MergeSort\\MergeSort.csproj",
-              "RelativeToolTip": "MergeSort\\MergeSort.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-07T21:40:02.242Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Porgram.cs",
-              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\MergeSort\\Porgram.cs",
-              "RelativeDocumentMoniker": "MergeSort\\Porgram.cs",
-              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\MergeSort\\Porgram.cs",
-              "RelativeToolTip": "MergeSort\\Porgram.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T21:39:53.889Z",
+              "Title": "Two_Pointers",
+              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\Two_Pointers\\Two_Pointers.csproj",
+              "RelativeDocumentMoniker": "Two_Pointers\\Two_Pointers.csproj",
+              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\Two_Pointers\\Two_Pointers.csproj",
+              "RelativeToolTip": "Two_Pointers\\Two_Pointers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T19:32:31.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "BinarySearch.cs",
-              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\DivideAndConquer\\BinarySearch.cs",
-              "RelativeDocumentMoniker": "DivideAndConquer\\BinarySearch.cs",
-              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\DivideAndConquer\\BinarySearch.cs",
-              "RelativeToolTip": "DivideAndConquer\\BinarySearch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:06:22.465Z",
+              "Title": "MergeSort",
+              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\MergeSort\\MergeSort.csproj",
+              "RelativeDocumentMoniker": "MergeSort\\MergeSort.csproj",
+              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\MergeSort\\MergeSort.csproj",
+              "RelativeToolTip": "MergeSort\\MergeSort.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T19:32:28.909Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\DivideAndConquer\\Program.cs",
-              "RelativeDocumentMoniker": "DivideAndConquer\\Program.cs",
-              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\DivideAndConquer\\Program.cs",
-              "RelativeToolTip": "DivideAndConquer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Porgram.cs",
+              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\MergeSort\\Porgram.cs",
+              "RelativeDocumentMoniker": "MergeSort\\Porgram.cs",
+              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\MergeSort\\Porgram.cs",
+              "RelativeToolTip": "MergeSort\\Porgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T21:05:25.016Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DivideAndConquer.csproj",
-              "DocumentMoniker": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\DivideAndConquer\\DivideAndConquer.csproj",
-              "RelativeDocumentMoniker": "DivideAndConquer\\DivideAndConquer.csproj",
-              "ToolTip": "C:\\Users\\a.ghusen\\source\\repos\\AliAamer11\\Problem_Solving_Strategy\\Problem_Solving_Strategy\\DivideAndConquer\\DivideAndConquer.csproj",
-              "RelativeToolTip": "DivideAndConquer\\DivideAndConquer.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T21:04:46.911Z"
+              "WhenOpened": "2025-03-08T18:44:26.258Z",
+              "EditorCaption": ""
             }
           ]
         },

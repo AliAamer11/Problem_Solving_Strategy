@@ -1,0 +1,15 @@
+C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solving_Strategy\Two_Pointers\bin\Debug\net8.0\Two_Pointers.exe
+C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solving_Strategy\Two_Pointers\bin\Debug\net8.0\Two_Pointers.deps.json
+C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solving_Strategy\Two_Pointers\bin\Debug\net8.0\Two_Pointers.runtimeconfig.json
+C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solving_Strategy\Two_Pointers\bin\Debug\net8.0\Two_Pointers.dll
+C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solving_Strategy\Two_Pointers\bin\Debug\net8.0\Two_Pointers.pdb
+C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solving_Strategy\Two_Pointers\obj\Debug\net8.0\Two_Pointers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solving_Strategy\Two_Pointers\obj\Debug\net8.0\Two_Pointers.AssemblyInfoInputs.cache
+C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solving_Strategy\Two_Pointers\obj\Debug\net8.0\Two_Pointers.AssemblyInfo.cs
+C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solving_Strategy\Two_Pointers\obj\Debug\net8.0\Two_Pointers.csproj.CoreCompileInputs.cache
+C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solving_Strategy\Two_Pointers\obj\Debug\net8.0\Two_Pointers.sourcelink.json
+C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solving_Strategy\Two_Pointers\obj\Debug\net8.0\Two_Pointers.dll
+C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solving_Strategy\Two_Pointers\obj\Debug\net8.0\refint\Two_Pointers.dll
+C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solving_Strategy\Two_Pointers\obj\Debug\net8.0\Two_Pointers.pdb
+C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solving_Strategy\Two_Pointers\obj\Debug\net8.0\Two_Pointers.genruntimeconfig.cache
+C:\Users\a.ghusen\source\repos\AliAamer11\Problem_Solving_Strategy\Problem_Solving_Strategy\Two_Pointers\obj\Debug\net8.0\ref\Two_Pointers.dll
